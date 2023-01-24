@@ -3,5 +3,6 @@ public class Main {
 
         System.out.println("This is the Git checkpoint task 1.1");
         CheckTest.print();
+        Calculate.print();
     }
 }
